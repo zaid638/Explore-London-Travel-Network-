@@ -1,12 +1,12 @@
 # Explore London Travel Network
-<br/><br/><br/>
+<br/><br/>
 
 In this project, I worked with a slightly modified version of a dataset containing information about public transport journey volume by transport type.
 The Mayor of London's office make their data available to the public [here](https://data.london.gov.uk/dataset)
 <br/><br/><br/>
 
 ## Objective
-<br/><br/><br/>
+<br/><br/>
 
 * Find most popular transport types.
 <br/>
